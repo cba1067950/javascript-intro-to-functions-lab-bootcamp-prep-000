@@ -24,11 +24,11 @@ function sayHiToGrandma(string){
 }
 
 function logShout(string){
-  console.log(uppercase(string));
+  console.log(shout(string));
 }
 
 function logWhisper(string){
-  console.log(string);
+  console.log(whisper(string));
 }
 
 logShout(uppercase)
