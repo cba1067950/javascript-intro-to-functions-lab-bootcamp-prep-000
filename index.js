@@ -13,7 +13,7 @@ function whisper(string){
 
 function sayHiToGrandma(string){
   if(string === lowercase){
-    return "I can't hear you!'"
+    return "I can't hear you!"
   } 
   if(string === uppercase){
     return 'YES INDEED!'
