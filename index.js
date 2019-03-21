@@ -13,13 +13,13 @@ function whisper(string){
 
 function sayHiToGrandma(string){
   if(string === lowercase){
-    return "I can't hear you!"
+    return 'I can't hear you!''
   } 
   if(string === uppercase){
-    return "YES INDEED!"
+    return 'YES INDEED!'
   }
   if(string === youToo){
-    return "I love you, too."
+    return 'I love you, too.'
   }
 }
 
@@ -31,5 +31,5 @@ function logWhisper(string){
   console.log(whisper(string));
 }
 
-//logShout(uppercase)
-//logWhisper(lowercase)
+logShout(uppercase)
+logWhisper(lowercase)
