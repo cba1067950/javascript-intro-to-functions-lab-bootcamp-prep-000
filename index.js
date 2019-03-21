@@ -22,6 +22,9 @@ function sayHiToGrandma(string){
   }
 }
 
+shout('HELLO')
+whisper('hello')
+
 function logShout(string){
   console.log(shout);
 }
