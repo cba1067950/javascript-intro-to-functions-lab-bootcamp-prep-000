@@ -22,9 +22,6 @@ function sayHiToGrandma(string){
   }
 }
 
-shout('HELLO')
-whisper('hello')
-
 function logShout(string){
   console.log(shout);
 }
@@ -32,3 +29,8 @@ function logShout(string){
 function logWhisper(string){
   console.log(whisper);
 }
+
+shout('HELLO')
+whisper('hello')
+logShout('HELLO')
+logWhisper('hello')
