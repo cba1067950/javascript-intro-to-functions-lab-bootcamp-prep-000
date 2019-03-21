@@ -33,3 +33,5 @@ function logWhisper(string){
 
 logShout(uppercase)
 logWhisper(lowercase)
+console.log(sayHiToGrandma(uppercase))
+console.log(sayHiToGrandma(lowercase))
