@@ -31,5 +31,5 @@ function logWhisper(string){
   console.log(whisper);
 }
 
-sayHiToGrandma("HELLO")
-sayHiToGrandma("hello")
+logShout(uppercase)
+
