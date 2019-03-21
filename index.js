@@ -7,7 +7,6 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string){
-  var uppercase = "HELLO"
   var lowercase = string.toLowerCase();
   var uppercase = string.toUpperCase();
   var youToo = "I love you, Grandma."
@@ -29,8 +28,3 @@ function logShout(string){
 function logWhisper(string){
   console.log(whisper);
 }
-
-shout('HELLO')
-whisper('hello')
-logShout('HELLO')
-logWhisper('hello')
