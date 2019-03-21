@@ -7,6 +7,6 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string){
-  if string.
+  string
   returns 
 }
