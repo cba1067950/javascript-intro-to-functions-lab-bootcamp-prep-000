@@ -7,6 +7,8 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string){
-  string
-  returns 
+  var lowercase = string.toLowerCase();
+  if(string === lowercase){
+    return "I can't hear you!"
+  }
 }
