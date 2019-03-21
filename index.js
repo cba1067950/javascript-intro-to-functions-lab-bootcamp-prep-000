@@ -32,4 +32,4 @@ function logWhisper(string){
 }
 
 logShout(uppercase)
-
+logWhisper(lowercase)
